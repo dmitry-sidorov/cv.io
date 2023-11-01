@@ -7,6 +7,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background: #f3f3f3;
 }
 
 .page {
@@ -24,4 +25,5 @@ main {
 .section__right {
   /* background: linear-gradient(#e5e3fa, #d6d2f7); */
   flex-basis: 50%;
+  background: #fff;
 }
